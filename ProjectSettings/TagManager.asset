@@ -18,8 +18,8 @@ TagManager:
   - Player
   - Backgorund
   - Bouncing
-  - 
-  - 
+  - Enemies
+  - Hazards
   - 
   - 
   - 
@@ -58,4 +58,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1370109333
+    locked: 0
+  - name: Hazards
+    uniqueID: 2475039719
     locked: 0
